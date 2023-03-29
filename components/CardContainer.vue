@@ -11,5 +11,6 @@
   border-radius: 4px;
   border: 1px solid #262626;
   max-width: 400px;
+  overflow: auto;
 }
 </style>
